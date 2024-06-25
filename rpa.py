@@ -1,4 +1,4 @@
-rom datetime import datetime
+from datetime import datetime
 from selenium import webdriver
 import psycopg2
 options = webdriver.ChromeOptions()
